@@ -6,7 +6,7 @@ Here we will post all the code that we'll write, stay tuned!
 # Update
 Added MockUp Images! <br />
 
-Developed by:<br />
+# Developed by:<br />
 Marco Nigro       : https://www.linkedin.com/in/marco-nigro-283024140/<br />
 Alessio Tirabasso : https://www.linkedin.com/in/alessio-tirabasso-44a023140/<br />
 Federico Boarelli : https://www.linkedin.com/in/federico-boarelli-a4885311b/<br />
