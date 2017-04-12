@@ -4,7 +4,7 @@ The goal of the project is to have a noise map of the city, in order to achieve 
 Here we will post all the code that we'll write, stay tuned!
 
 # Update
-Added MockUp Images! <br />
+Adde the Android repository(NoiseApp) and the server source code: you will need tomcat and mySql to run the project <br />
 
 # Developed by:<br />
 Marco Nigro       : https://www.linkedin.com/in/marco-nigro-283024140/<br />
