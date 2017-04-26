@@ -4,7 +4,11 @@ The goal of the project is to have a noise map of the city, in order to achieve 
 Here we will post all the code that we'll write, stay tuned!
 
 # Update
-Adde the Android repository(NoiseApp) adn the Server repository(NoiseAppServer)<br />
+Added the Android repository(NoiseApp), soon we will add the Server repository(NoiseAppServer) too<br />
+
+# Links
+Android rep: https://github.com/projectNoiseRome/NoiseApp
+Server rep: avaible soon
 
 # Developed by:<br />
 Marco Nigro       : https://www.linkedin.com/in/marco-nigro-283024140/<br />
