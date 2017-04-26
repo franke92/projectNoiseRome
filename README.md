@@ -7,6 +7,8 @@ Here we will post all the code that we'll write, stay tuned!
 Added the Android repository(NoiseApp), soon we will add the Server repository(NoiseAppServer) too<br />
 
 # Links
+Slides initial concept: https://www.slideshare.net/MarcoNigro6/noise-app
+MVP: https://www.slideshare.net/MarcoNigro6/noise-app-mvp
 Android rep: https://github.com/projectNoiseRome/NoiseApp<br />
 Server rep: avaible soon
 
