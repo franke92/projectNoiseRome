@@ -2,6 +2,9 @@
 NoiseApp is an accademic project developed for the Pervasive System class a Univerity of Rome - La Sapienza, Master Degree in Computer Engineering<br />
 The goal of the project is to have a noise map of the city, in order to achieve better booking for tourist based on their preferences: for example, young tourist may like to be near a zone with high nightlife activities(so with a higher noise of level) and viceversa a family maybe want to avoid such places. On the other side, having a noise map of the city give us the possibility to study the noise pollution in a city like Rome, that make the project really intresting in term of utilization: acquiring the noise level data allow the user to find the best place for any eventuality and allow the researchers to study the noise phenomenon<br />
 
+## System Composition:
+Coming soon
+
 ## Road to NoiseApp:
 ### Composition of the team - first half of March 2017:
 Coming soon
@@ -17,6 +20,7 @@ Coming soon
 
 ### Next(possible) steps:
 Coming soon
+
 
 ## Links:
 Slides initial concept: https://www.slideshare.net/MarcoNigro6/noise-app<br />
