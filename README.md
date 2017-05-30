@@ -31,13 +31,45 @@ Here you can find the slides of our first presentation: https://www.slideshare.n
 
 
 ### Users interview and presentation of the Mvp - second half of April 2017:
+After many breefings to decide what kind and how many questions make to our users, we define our system design and start to develop, considering the first interviews collected. <br />
+<img src="https://github.com/projectNoiseRome/projectNoiseRome/blob/master/MockUp/SystemDesign.png" alt="Drawing" width="500" height="350" description="Login"/><br />
+> The final system design<br />
+
+We divide our tasks into two main work: the Android app and the Server side(including the sensor). For the first one, we start developing with Android Studio, studying how to use the Google Maps apis to achieve our aims. On the other side, while for the server we setup an Apache Tomcat REST server with MySql as dmbs, we begin to work on the sensors to: we decide that ArduinoUno was the best solution. To retrieve the information from the controller, we test first a WiFi shield, then we choose to use NodeRED because it make more easier to share the data in a fast and secure way throw the web. So we arrive at the presentation with a live demo that was running our Android app prototype and the Server running live time.<br />
+
 Here you can find the slides of the Mvp presentation: https://www.slideshare.net/MarcoNigro6/noise-app-mvp <br />
 
 ### Presentation of the final Android application and System - second half of May 2017:
-Coming soon
+After the feedbacks received at the MVP presentation, we begin the heavy develop of the app in order to let our user try the app and make some deep testing. At the second week of may we have implemented all the main functions in the app, having a lot of users feedbacks and hours of debug, we concentrate on the visual aspect, improving the general UI. Here there are some screenshots from our app:<br />
+
+<img src="https://github.com/projectNoiseRome/projectNoiseRome/blob/master/Screenshots/Login.png" alt="Drawing" width="100" height="200" description="Login"/><br />
+> 1 - Login<br />
+
+<img src="https://github.com/projectNoiseRome/projectNoiseRome/blob/master/Screenshots/NoiseMap.PNG" alt="Drawing" width="100" height="200" description="Login"/><br />
+> 2 - Home with the map<br />
+
+<img src="https://github.com/projectNoiseRome/projectNoiseRome/blob/master/Screenshots/NavigationView.png" alt="Drawing" width="100" height="200" description="Login"/><br />
+> 3 - NavigationView menu<br />
+
+<img src="https://github.com/projectNoiseRome/projectNoiseRome/blob/master/Screenshots/SensorList.png" alt="Drawing" width="100" height="200" description="Login"/><br />
+> 4 - Sensors list<br />
+
+<img src="https://github.com/projectNoiseRome/projectNoiseRome/blob/master/Screenshots/Stats1.png" alt="Drawing" width="100" height="200" description="Login"/><br />
+> 5 - Sensor Stats per day<br />
+
+<img src="https://github.com/projectNoiseRome/projectNoiseRome/blob/master/Screenshots/Stats3.png" alt="Drawing" width="100" height="200" description="Login"/><br />
+> 6 - Sensor Stats per hour<br />
+
+<img src="https://github.com/projectNoiseRome/projectNoiseRome/blob/master/Screenshots/Calculate1.png" alt="Drawing" width="100" height="200" description="Login"/><br />
+> 7 - Calculate Noise activity<br />
+
+And here are our final presentation slide: link coming soon
 
 ### Next(possible) steps:
-Coming soon
+Of course this is an academic project, but there is a lot of possible work to do to improve our app. First of all, build a deep network of sensor to obtain a deep noise level monitoring. This is a very intresting point, because this could involve the community: we could create a NoiseBox(a plug and play box that need only a WiFi network and a power source) and give it to the peole, making this a shared project for the city. On other side, we still have a lot of work to improve our app, and we are studying some ways to enable the share on the social networks: As we said, there are a lot of ways to improve the project, but we built in three months a solid system, stable and with few minor bugs. <br />
+
+We will post here all the news about our project, and we will be glad if someone from the GitHub community wants to join us!
+Thanks for reading!
 
 
 ## Links:
