@@ -1,1 +1,2 @@
-### Note: the sensorName is NOT unique, so create any sensorName different from other one, otherwise tey will overwrite their data
+### Attention: 
+The sensorName is NOT unique in the db, so create a different sensorName for any sensor, otherwise they will overwrite their data
